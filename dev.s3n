@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/Df4HJBpLaKVFkM36/raw"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/noge0nLTXB/0"))()
